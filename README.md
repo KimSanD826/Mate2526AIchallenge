@@ -5,4 +5,4 @@ mate2526challenge\Scripts\activate
 
 # Under *nix
 
-source mate2526challenge\Scripts\activate
+source mate2526challenge/bin/activate
