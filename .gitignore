@@ -55,3 +55,6 @@ Thumbs.db
 
 # video
 *.mp4
+
+#data
+data/
