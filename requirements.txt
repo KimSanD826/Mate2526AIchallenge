@@ -1,3 +1,5 @@
 opencv-python
 ultralytics
 matplotlib
+openpyxl
+scikit-learn
